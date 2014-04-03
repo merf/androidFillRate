@@ -1,0 +1,7 @@
+.sconsign.dblite
+*.xcuserdatad
+/apportable/xcodebuild.out
+/apportable/xcodesettings.out
+.sconsign.dblite
+DerivedData/*
+.DS_Store
